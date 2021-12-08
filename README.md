@@ -8,12 +8,6 @@
 <!-- Subtitle -->
 <h2 align="center"> Projeto : Snake Game </h2>
 
-<!-- Badges -->
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/DIO-jogo-da-cobrinha-Javascript?color=%2304D361?style=flat-square">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunoemferreira/DIO-jogo-da-cobrinha-Javascript?style=flat-square">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/DIO-jogo-da-cobrinha-Javascript?style=flat-square">
-</p>
 
 <!-- Sobre o Projeto -->
 <a id="sobre-o-projeto"></a>
@@ -24,11 +18,15 @@ O projeto é o famoso jogo da cobrinha, desenvolvido em HTML, CSS e Javascript, 
 ## 🖼️ Imagens do Projeto
 
 <div align="center">
-   <img src="./Assets/image1.png"/>
+   <img src="./Assets/snaketela.png"/>
 </div>
 
 <div align="center">
-   <img src="./Assets/imagem2.png"/>
+   <img src="./Assets/snaketela1.png"/>
+</div>
+
+<div align="center">
+   <img src="./Assets/snaketelagameover.png"/>
 </div>
 
 <a id="tecnologias-e-bibliotecas"></a>
@@ -37,22 +35,3 @@ O projeto é o famoso jogo da cobrinha, desenvolvido em HTML, CSS e Javascript, 
 * [HTML]()
 * [CSS]()
 * [JavaScript]()
-
-<a id="rodando-o-projeto"></a>
-## ⚙️ Rodando o Projeto
-
-```bash
-# Clone este repositório para a pasta anterior
-$ git clone https://github.com/brunoemferreira/DIO-jogo-da-cobrinha-Javascript.git
-# ou use a opção de download.
-
-# Acesse a pasta dtmoney
-$ cd DIO-jogo-da-cobrinha-Javascript
-
-# Rodar o Projeto
-$ Rode o index.html no live server do VsCode
-ou
-$ Abra no browser o arquivo index.html
-
-```
----
