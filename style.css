@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: gameovercre1;
+  src: url(./font/gameovercre1.ttf);
+}
+
+body {
+  font-family: gameovercre1;
+  height: 95vh;
+  width: 95;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: green;
+}
+
+h1 {
+  font-size: 80px;
+  color: red;
+}
+
+h2 {
+  font-size: 40px;
+  color: green;
+}
+
+#snake {
+  border-radius: 10px;
+}
